@@ -35,10 +35,10 @@ display()
 - If top == -1 → print "Stack Underflow"
 - Else → loop from 0 to top and print each element
 
- Key Concept
-- **Stack** follows **LIFO** (Last In First Out) principle.
+ Key Concept:
+- Stack follows LIFO (Last In First Out) principle.
 - Implemented using a static array.
 - Useful for expression evaluation, backtracking, and function call management.
 
-Conclusion
+Conclusion:
 This program demonstrates a basic stack implementation using arrays in C++, performing all standard operations and handling boundary conditions like overflow and underflow effectively.
